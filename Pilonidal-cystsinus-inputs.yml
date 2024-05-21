@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/pilonidal-cystsinus-destruction---primary.py
+inputModule3:
+  class: File
+  path: python/pilonidal-cystsinus-abscess---primary.py
+inputModule4:
+  class: File
+  path: python/pilonidal-cystsinus-unspecified---primary.py
+inputModule5:
+  class: File
+  path: python/pilonidal-cystsinus-graft---primary.py
+inputModule6:
+  class: File
+  path: python/pilonidal-cystsinus-excision---primary.py
+inputModule7:
+  class: File
+  path: python/pilonidal-cystsinus-suture---primary.py
+inputModule8:
+  class: File
+  path: python/plasty-pilonidal-cystsinus---primary.py
+inputModule9:
+  class: File
+  path: python/pilonidal-cystsinus-operation---primary.py
+inputModule10:
+  class: File
+  path: python/sinus---primary.py
+inputModule11:
+  class: File
+  path: python/pilonidal-cystsinus-drainage---primary.py
+inputModule12:
+  class: File
+  path: python/pilonidal-cystsinus---primary.py
+inputModule13:
+  class: File
+  path: python/pilonidal-cystsinus-laying---primary.py
+inputModule14:
+  class: File
+  path: python/pilonidal-cystsinus-substance---primary.py
+inputModule15:
+  class: File
+  path: python/pilonidal-cystsinus-procedure---primary.py
+inputModule16:
+  class: File
+  path: python/cyst---primary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
